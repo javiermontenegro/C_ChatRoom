@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([client], [0.1.0], [javiermontenegro.com@gmail.com])
+AC_INIT([client], [0.1.0], [https://javiermontenegro.github.io/])
 AM_INIT_AUTOMAKE([1.9 foreign subdir-objects])
 
 # Checks for programs.

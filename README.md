@@ -318,7 +318,7 @@ The !demoteuser command removes server administrative abilities from a target _u
 
 ## Author
 
-* **Javier Montenegro** - [javiermontenegro](https://github.com/javiermontenegro)
+* **Javier Montenegro** - [javiermontenegro](https://javiermontenegro.github.io/)
 
 ## License
 

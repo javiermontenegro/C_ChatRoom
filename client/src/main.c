@@ -1,6 +1,6 @@
 /*! \file main.c
  *
- *  Author:  Javier Montenegro (javiermontenegro.com@gmail.com)
+ *  Author:  Javier Montenegro (https://javiermontenegro.github.io/)
  *  Details: program file for methods implementation.
  */
 

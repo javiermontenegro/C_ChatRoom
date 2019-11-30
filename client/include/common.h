@@ -3,7 +3,7 @@
 
 /*! \file common.h
  *
- *  Author:  Javier Montenegro (javiermontenegro.com@gmail.com)
+ *  Author:  Javier Montenegro (https://javiermontenegro.github.io/)
  *  Details: header file for methods definition.
  */
 
