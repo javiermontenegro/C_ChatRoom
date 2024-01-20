@@ -14,6 +14,15 @@ install cygwin and use its package manager to install the aforementioned
 tools.
 Both server and client requires the readline() function to read from stdin. Install ```libreadline-dev``` if the library is not already installed.
 
+### How to use this project
+
+Clone the repository:
+```
+$ git clone ssh://git@github.com/javiermontenegro/C_ChatRoom.git
+```
+
+Or else simply download zip file from [this link](https://codeload.github.com/javiermontenegro/C_ChatRoom/zip/refs/heads/master).
+
 ### Installing
 
 The installation process is fairly simple once the prerequisite tools have
